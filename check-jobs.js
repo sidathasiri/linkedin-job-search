@@ -4,10 +4,7 @@
 (async () => {
   const ids = {
     4441588287: "Innodata Lanka – Data Scientist",
-    4416177168: "Acumatica – Associate Data Scientist",
-    4413541436: "HCLTech – AI/ML Engineer",
     4407804419: "Sysco LABS – Senior Engineer, Data Engineering (Data & AI Governance)",
-    4393598276: "Astro Sirens – AI/ML Engineer",
     4386816863: "HCLTech – Gen AI Data Scientist",
     4386820814: "HCLTech – AI Engineer",
   };
